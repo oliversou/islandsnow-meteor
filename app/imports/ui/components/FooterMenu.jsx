@@ -5,7 +5,7 @@ export default class FooterMenu extends React.Component {
   render() {
     return (
         <div className="footer-background">
-          <Grid container colums="3">
+          <Grid container columns="3">
             <Grid.Column>
               Navigation
               <hr />
