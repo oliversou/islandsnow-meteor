@@ -4,7 +4,7 @@ import { Image } from 'semantic-ui-react';
 export default class IslandSnowLogo {
   render() {
     return (
-        <Image src='http://www.hardrock.com/cafes/honolulu/files/2384/Honolulu_Entrance.jpg'/>
+        <Image centered src="//cdn.shopify.com/s/files/1/1035/5187/t/5/assets/logo.png?9243197903709543590"/>
     );
   }
 }
